@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Vase en céramique",
+    "description": "Un vase artisanal en céramique, idéal pour les fleurs fraîches.",
+    "price": 39.99,
+    "category": "Décoration intérieure",
+    "image_url": "https://exemple.com/images/vase.jpg"
+  },
+  {
+    "name": "Assiette en céramique",
+    "description": "Une assiette peinte à la main en céramique pour présenter vos plats avec style.",
+    "price": 19.99,
+    "category": "Arts de la table",
+    "image_url": "https://exemple.com/images/assiette.jpg"
+  },
+  {
+    "name": "Statuette en céramique",
+    "description": "Une petite statuette en céramique représentant un animal exotique.",
+    "price": 49.99,
+    "category": "Décoration intérieure",
+    "image_url": "https://exemple.com/images/statuette.jpg"
+  }
+]
